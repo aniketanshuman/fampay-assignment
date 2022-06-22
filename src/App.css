@@ -1,0 +1,16 @@
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  background-color: #F7F6F3;
+  width: 100%;
+}
+
+@media screen and (min-width: 500px) {
+  .main-container {
+    width: 500px;
+  }
+}
