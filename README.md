@@ -1,6 +1,6 @@
 ## This repository contains assignment submission for FamPay for frontend intern role
 
-
+## Deployed [here](https://fampay-assignment.vercel.app/)
 
 
 ## How to get started
